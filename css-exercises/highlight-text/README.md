@@ -7,7 +7,7 @@
 
 ### Starter files:
 - [index.html](index.html)
-- [style.css](style.html)
+- [style.css](style.css)
 
 
 ### Solution
